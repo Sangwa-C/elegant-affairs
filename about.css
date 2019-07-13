@@ -1,0 +1,151 @@
+.image1{
+    float:left;
+    height:400px;
+    width:400px;
+    margin-left:170px;
+    margin-top:100px;
+}
+
+p1{
+ float:right;
+ width:40%;
+ text-align:justify;
+ margin-right:200px;
+ margin-top:100;
+ font-size:1em;
+ font-family: 'ProximaNova-Light', sans-serif;
+ line-height: 1.87;
+ } 
+ 
+ 
+ h1{
+    
+    font-weight: normal;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    text-align: center;
+    margin-bottom: 0.2em;
+    padding-top: 0.8em;
+    padding-bottom:0.3em;
+    background-color:rgb(240, 216, 205);
+ }
+ 
+h2{
+    font-family: "NeutrafaceDisplayLight", sans-serif;
+    text-align: center;
+    margin-bottom: 0.2em;
+    padding-top: 2em;
+    letter-spacing: 0.03em;
+}
+
+.image2{
+    float:right;
+    height:400px;
+    width:400px;
+    margin-right:170px;
+    margin-top:300px;
+}
+
+p2{
+    float:left;
+    width:40%;
+    text-align:right;
+    margin-left:170px;
+    margin-top:200;
+    font-size:1em;
+    font-family: 'ProximaNova-Light', sans-serif;
+    line-height: 1.87;
+    
+}
+
+.image3{
+    float:left;
+    height:400px;
+    width:400px;
+    margin-left:170px;
+    margin-top:300px;
+    
+}
+
+p3{
+    float:right;
+    width:40%;
+    margin-right:170px;
+    margin-top:200;
+    font-size:1em;
+    font-family: 'ProximaNova-Light', sans-serif;
+    line-height: 1.87;
+}
+
+.image4{
+    float:right;
+    height:400px;
+    width:400px;
+    margin-right:170px;
+    margin-top:300px;
+}
+
+p4{
+    float:left;
+    width:40%;
+    text-align:right;
+    margin-left:170px;
+    margin-top:300px;
+    font-size:1em;
+    font-family: 'ProximaNova-Light', sans-serif;
+    line-height: 1.87;
+}
+
+
+li {
+display: block;
+  color: #000;
+  padding: 8px 16px;
+ 
+}
+nav ul{
+    background-color:rgb(206, 202, 202);
+    opacity:0.7;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    margin-top:40px;
+}
+nav ul li{
+    float:left;
+    padding-bottom:20px;
+}
+
+
+nav>ul>li>a{
+    text-transform:uppercase;
+    text-decoration: none;
+    display:block;
+    color:rgb(0,0,0);
+    width:180px;
+    font-weight:600;
+    font-size:1.3em;
+}
+
+nav>ul>li>a:hover{
+    
+    color:rgb(54, 132, 161 );
+    font-size:170%;
+}
+
+
+.all{
+    position:absolute;
+}
+
+footer {
+    padding-top:160px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    margin-top: 1500px;
+}
+
